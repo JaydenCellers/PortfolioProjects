@@ -1,5 +1,5 @@
 # Visualizing Personal Music from the Past Year Using Python and Tableau 
-### Creating a [dynamic dashboard](https://public.tableau.com/views/JaydensSpotifyHistory/JaydensSpotifyHistory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to visualize my music trends over the past year.
+### Created a [dynamic dashboard](https://public.tableau.com/views/JaydensSpotifyHistory/JaydensSpotifyHistory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) to visualize my music trends over the past year.
 Inspiration for this project came from my love for music. I wanted to incorporate that into a data analysis project 
 in order to get some practice, particularly in data visualization. This was a guided project where I used this awesome [article](https://towardsdatascience.com/visualizing-spotify-data-with-python-tableau-687f2f528cdd) by Anne Bode.
 ## Interesting Points from the Project
