@@ -4,8 +4,8 @@ import numpy as np
 import requests
 
 # Spotify Client ID and Secret
-CLIENT_ID = "1b5a4cee82e046c399e1d0e6703e7831"
-CLIENT_SEC = "6a82105921f94bd0bc941f5f7f1ce208"
+CLIENT_ID = "secret"
+CLIENT_SEC = "secret"
 
 # Read in streaming history files
 folder_dir = "April23\MyData\\"
